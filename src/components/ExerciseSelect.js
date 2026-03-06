@@ -2,7 +2,7 @@ import React from 'react';
 
 const exercises = [
   { name: 'Push Ups', type: 'Repetition' },
-  { name: 'Running', type: 'Duration' },
+  { name: 'Running', type: 'Running' },
   { name: 'Plank', type: 'Duration' },
 ];
 
